@@ -11,7 +11,7 @@ package midtermexam_versiona_extensioncode;
  */
 
 
-// THIS IS THE COMMENT ADDED FOR QUESTION5
+// THIS IS THE COMMENT ADDED FOR QUESTION 5
 
 public class UserProfile 
 {

@@ -9,6 +9,10 @@ package midtermexam_versiona_extensioncode;
  * code.
  * @author dancye, 2019
  */
+
+
+// THIS IS THE COMMENT ADDED FOR QUESTION
+
 public class UserProfile 
 {
     
